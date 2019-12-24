@@ -22,12 +22,12 @@ readme = 'README.md'
 repository = 'https://github.com/tcp-warp/tcp-warp'
 categories = ['network-programming']
 [badges.appveyor]
-repository = 'https://github.com/tcp-warp/tcp-warp'
+repository = 'tcp-warp/tcp-warp'
 branch = 'master'
 service = 'github'
 
 [badges.travis-ci]
-repository = 'https://github.com/tcp-warp/tcp-warp'
+repository = 'tcp-warp/tcp-warp'
 branch = 'master'
 
 [badges.maintenance]
